@@ -78,6 +78,18 @@ task-trail/
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./assets/login.png" width="30%" />
+  &nbsp; &nbsp;
+  <img src="./assets/dashboard.png" width="30%" />
+  &nbsp; &nbsp;
+  <img src="./assets/create-task.png" width="30%" />
+</p>
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
